@@ -8,8 +8,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/npxXWgQ33ZQ/up
 
 ---
 
-Hi 👋, pro Welcome to Hashnode, the developer community that truly believes in creative freedom!
+Hi 👋,最开始的测试，到现在绑定裸域，最终在.[hashnode.dev](http://hashnode.dev) 安家。
 
-Here's some information to help you get started with Hashnode.
+微博，这里没有认识的人，朋友圈不能讲的话这里可以，畅谈！
 
-How does it work? Developers create personal blogs on Hashnode. These blogs live on either custom domains or .[hashnode.dev](http://hashnode.dev) subdomains. Every time an author writes an article, it's published on their personal blog and distributed to the Hashnode community for discoverability. Users discover articles from their feeds (such as personal feed, following and featured), and engage with the content.
+发发闹骚，身边发生...
