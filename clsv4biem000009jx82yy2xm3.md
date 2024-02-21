@@ -3,7 +3,7 @@ title: "雪天绿皮火车出行"
 datePublished: Wed Feb 21 2024 01:30:58 GMT+0000 (Coordinated Universal Time)
 cuid: clsv4biem000009jx82yy2xm3
 slug: 6zuq5asp57u55qu54gr6l2m5ye66kgm
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1708500470249/e6a31649-dccb-4042-99f8-1726a15ff92d.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708500509497/295968f8-6b91-441b-95d8-1b619be4310a.jpeg
 tags: 5ye66kgm
 
 ---
