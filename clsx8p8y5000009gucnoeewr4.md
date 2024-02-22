@@ -7,4 +7,4 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708607153684/f32b80e
 
 ---
 
-发张图片而已
+大图自动裁剪的
